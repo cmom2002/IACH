@@ -1,25 +1,25 @@
-﻿Ingredients,Quantity,Expiration Date
-flour,1,2025-06-26
-flour,3,2024-01-26
-egg,16,2023-12-29
-milk,2,2023-12-26
-margarine,1,2023-04-23
-salt,2,2025-11-29
-white sugar,1,2024-05-29
-bread,5,2023-12-15
-vegetable oil,3,2025-06-15
-onion,9,2023-12-19
-yogurt,2,2023-12-15
-baking powder,2,2024-12-15
-brown sugar,6,2025-04-19
-butter,3,2024-03-22
-honey,4,2025-10-18
-banana,3,2023-12-19
-milk,1,2023-12-28
-garlic,6,2023-12-28
-salt,1,2025-12-29
-beer,24,2025-06-16
-meet,3,2023-12-16
-salmon,2,2023-12-12
-chicken,3,2023-12-26
-egg,4,2023-12-01
+Ingredients,Quantity,Expiration Date,Id
+flour,1,2025-06-26,0
+flour,3,2024-01-26,1
+egg,16,2023-12-29,2
+milk,2,2023-12-26,3
+margarine,1,2023-04-23,4
+salt,2,2025-11-29,5
+white sugar,1,2024-05-29,6
+bread,5,2023-12-15,7
+vegetable oil,3,2025-06-15,8
+onion,9,2023-12-19,9
+yogurt,2,2023-12-15,10
+baking powder,2,2024-12-15,11
+brown sugar,6,2025-04-19,12
+butter,3,2024-03-22,13
+honey,4,2025-10-18,14
+banana,3,2023-12-19,15
+milk,1,2023-12-28,16
+garlic,6,2023-12-28,17
+salt,1,2025-12-29,18
+beer,24,2025-06-16,19
+meet,3,2023-12-16,20
+salmon,2,2023-12-12,21
+chicken,3,2023-12-26,22
+egg,4,2023-12-01,23
